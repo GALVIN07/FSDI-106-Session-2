@@ -1,0 +1,30 @@
+.container-fluid{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    padding: 3rem;
+}
+#iImportant{
+    font-size: 30px;
+    color:rgb(19,89,146);
+    cursor: pointer;
+}
+#iImportant:hover{
+    color:rgb(217, 247, 48)
+}
+form div{
+    padding: 10px;
+}
+h6{
+    font-weight: 900;
+}
+.task-display{
+    display: flex;
+    justify-content: space-between;
+}
+.task{
+    background-color: rgb(168, 210, 245);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    border-radius: 5px;
+}
